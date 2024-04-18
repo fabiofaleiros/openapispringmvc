@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="war">
+    <output-path>$PROJECT_DIR$/out/artifacts/war</output-path>
+    <root id="root">
+      <element id="archive" name="war.jar">
+        <element id="module-output" name="war" />
+      </element>
+    </root>
+  </artifact>
+</component>
